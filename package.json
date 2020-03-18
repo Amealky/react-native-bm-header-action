@@ -1,0 +1,36 @@
+{
+  "name": "react-native-bm-header-action",
+  "title": "React Native Bm Header Action",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Happeal/react-native-bm-header-action",
+    "baseUrl": "https://github.com/Happeal/react-native-bm-header-action"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Benjamin Metaut",
+    "email": "metautbenjamin@hotmail.fr"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  },
+  "dependencies": {
+    "react-native-bm-icon-button": "^1.0.4"
+  }
+}
