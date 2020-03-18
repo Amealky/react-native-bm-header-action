@@ -1,5 +1,15 @@
 <h1 align="center"> react-native-bm-header-action :iphone:</h1>
 
+<p align="center">
+<img src="https://img.shields.io/badge/platform-android-green.svg" />
+<img src="https://img.shields.io/badge/platform-iOS-blue.svg" />
+<img src="https://img.shields.io/badge/language-Javascript-orange.svg" />
+<img src="https://img.shields.io/badge/License-MIT-blue" />
+</p>
+## Preview
+![Preview](http://www.metautbenjamin.com/img/rn_mb_header.png)
+
+
 React native module to add a button icon (with text or not)
 ## Getting started
 
