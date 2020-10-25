@@ -18,7 +18,7 @@ class BmHeaderAction extends Component {
      return (
           <View style={[styles.headerStyle, this.props.style]}>
 
-          <BmIconButton style={[styles.buttonMenu, this.props.buttonStyle]} iconStyle={[styles.buttonMenuIcon, this.props.buttonIconStyle]} icon={this.props.menuIcon}/>
+          <BmIconButton style={[styles.buttonMenu, this.props.buttonStyle]} iconStyle={[styles.buttonMenuIcon, this.props.buttonIconStyle]} icon={this.props.menuIcon} action={this.props.buttonAction}/>
 
             <Text style={[styles.titleStyle, this.props.titleStyle]}>
             {this.props.title ?  (
